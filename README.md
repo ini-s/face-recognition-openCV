@@ -1,4 +1,6 @@
 Face Detection Project 👨‍💻
+
+
 This project demonstrates face detection in both static images and real-time video streams using Python's OpenCV library. It employs a pre-trained Haar Cascade classifier to accurately identify and draw bounding boxes around faces.
 
 🖼️ Face Detection in Images
